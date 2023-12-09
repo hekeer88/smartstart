@@ -1,3 +1,8 @@
+![Repository Logo](SS-logo.png)
+![Alt Text](SS-logo.png)
+
+
+
 # New Year Resolution Contracts
 
 ## Overview
