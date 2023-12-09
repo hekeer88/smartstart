@@ -1,4 +1,4 @@
-<img src="logo.png" width="100" height="100">
+<img src="SS-logo.png" width="100" height="100">
 
 # New Year Resolution Contracts
 
