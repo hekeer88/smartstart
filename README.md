@@ -1,7 +1,4 @@
-![Repository Logo](SS-logo.png)
-![Alt Text](SS-logo.png)
-
-
+<img src="logo.png" width="100" height="100">
 
 # New Year Resolution Contracts
 
