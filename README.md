@@ -1,5 +1,3 @@
-<img src="SS-logo.png" width="100" height="100">
-
 # New Year Resolution Contracts
 
 ## Overview
@@ -32,3 +30,5 @@ This repository contains two Solidity smart contracts, `MakePromise` and `NewYea
 
 ## License
 - The project is licensed under the MIT License.
+
+<img src="SS-logo.png" width="100" height="100">
